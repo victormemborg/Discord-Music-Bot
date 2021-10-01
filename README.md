@@ -1,6 +1,6 @@
 # Discord Music Bot 
 
-A simply music bot for discord written in Python. You can search using URLs and keywords.
+A simple music bot for discord written in Python. You can search using URLs and keywords.
 
 ## Getting started
 1. Clone this project.
