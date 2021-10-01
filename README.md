@@ -15,7 +15,7 @@ A simple music bot for discord written in Python. You can search using URLs and 
 * !skip
 * !stop
 
-# Dependencies
+## Dependencies
 * discord.py
 * discord
 * PyNaCl
